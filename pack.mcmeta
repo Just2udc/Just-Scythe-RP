@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 69,
+    "description": "Just a mod that adds cool scythes!",
+    "supported_formats": 69,
+    "min_format": 69,
+    "max_format": 120
+  }
+}
